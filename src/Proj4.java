@@ -1,3 +1,11 @@
+/*∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗*
+∗ @file: Proj4.java
+∗ @description: This program implements parsing my World dataset and testing my Hash Table
+*               operations and timing them
+∗ @author: Alan Lin
+∗ @date: December 4, 2025
+*∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗∗*/
+
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
