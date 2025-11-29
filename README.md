@@ -80,11 +80,13 @@ Using your favorite graphing software (e.g., MS Excel or Google Sheets), plot th
 each case. Take a screenshot of your graph and put them here by modifying this file, committing, and pushing
 it to this repository.
 
-Insertion, search, and deletion running time (already sorted):
+Insertion, search, and deletion running time (already sorted):<img width="1205" height="613" alt="Screenshot 2025-11-29 at 5 54 35 PM" src="https://github.com/user-attachments/assets/4c1aa740-2901-42ca-80a5-5af752a5dc27" />
 
-Insertion, search, and deletion running time (shuffled):
+Insertion, search, and deletion running time (shuffled): <img width="1204" height="657" alt="Screenshot 2025-11-29 at 5 55 06 PM" src="https://github.com/user-attachments/assets/b8276796-e4da-40ca-9b69-a553d98b35a3" />
 
-Insertion, search, and deletion running time (reversed):
+
+Insertion, search, and deletion running time (reversed): <img width="1202" height="652" alt="Screenshot 2025-11-29 at 5 55 29 PM" src="https://github.com/user-attachments/assets/99589068-4af2-4ec8-9ffd-5f12e796a04c" />
+
 
 ## 5. **Document your Dataset and Results**
 Document the source of your dataset and any modifications you made to it. Describe the results of your analysis and 
